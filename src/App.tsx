@@ -3,8 +3,8 @@ import { SlSocialFacebook, SlSocialInstagram, SlSocialTwitter, SlSocialYoutube, 
 
 export default function App() {
   return (
-    <div className="App bg-gradient-to-r from-esquerdo to-direito h-meu1 pb-10">
-      <div className="flex flex-col container mx-auto py-5">
+    <div className="App bg-gradient-to-r from-esquerdo to-direito h-meu pb-10">
+      <div className="flex flex-col container mx-auto py-5 px-10">
         <div className="flex justify-between items-center">
           <img className="w-20 h-10" src="../logo.svg" alt="logo" />
           <div className="flex gap-5">
